@@ -1,10 +1,10 @@
 
-# Getting started with developing CV_angular2.0
+### Getting started with developing CV_angular2.0
 
-## Bootstrap / JQuery
-## Angular2.0
-## PHP
-## less
+### Bootstrap / JQuery
+### Angular2.0
+### PHP
+### less
 
 ### Bugs and Issues
 * Firefox only - Google and IE compatibility issue
