@@ -1,0 +1,66 @@
+{
+"another": [
+  {
+    "Name" : "Youna Jung",
+    "City" : "Seoul",
+    "Country" : "South Korea",
+    "picurl":"img/portfolio/1.JPG",
+    "description":"Heaven helps those who help themselves."
+  },
+  {
+    "Name" : "BRIEF INTRODUCTION",
+    "City" : "Auckland",
+    "Country" : "New Zealand",
+	"picurl":"img/portfolio/5.JPG",
+    "description1":"Nationality",
+    "description2":"Name",
+    "description3":"Career",
+    "description4":"Skills",
+    "description5":"Qualification",
+    "description6":"Education",
+	"description7":"Hobby"
+  },
+    {
+    "Name" : "Qatar Airways",
+    "City" : "Doha",
+    "Country" : "Qatar",
+	"picurl":"img/portfolio/2.JPG",
+    "description1":"Procedure Development Analyst",
+    "description2":"Training in charge",
+    "description3":"Developing operational manuals",
+    "description4":"Involved in Hamad International Airport opening project"
+   },
+    {
+    "Name" : "Qatar Airways",
+    "City" : "Doha",
+    "Country" : "Qatar",
+	"picurl":"img/portfolio/3.JPG",
+    "description1":"Procedure Development Analyst",
+    "description2":"Training in charge",
+    "description3":"Developing operational manuals",
+    "description4":"Involved in Hamad International Airport opening project"
+  },
+    {
+    "Name" : "Qatar Airways",
+    "City" : "Doha",
+    "Country" : "Qatar",
+	"picurl":"img/portfolio/4.JPG",
+    "description1":"Procedure Development Analyst",
+    "description2":"Training in charge",
+    "description3":"Developing operational manuals",
+    "description4":"Involved in Hamad International Airport opening project"
+  },
+    {
+    "Name" : "IT Skill Development",
+    "City" : "UNITEC Institute of Technology",
+    "Country" : "New Zealand",
+	"picurl":"img/portfolio/5.JPG",
+    "description1":"My SQL",
+    "description2":"Adobe Suite",
+    "description3":"Website Development",
+    "description4":"Web Application Development",
+    "description5":"Cloud Application Development",
+    "description6":"Testing & Quality Assurance",
+	"description7":"Information and Technology Information System Analysis"
+  }  
+ ]}
